@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # win_toast
 
 [![Pub](https://img.shields.io/pub/v/win_toast.svg)](https://pub.dev/packages/win_toast)
@@ -72,3 +73,7 @@ https://github.com/mohabouje/WinToast
 https://github.com/javacommons/strconv
 https://learn.microsoft.com/en-us/windows/apps/design/shell/tiles-and-notifications/send-local-toast-desktop-cpp-wrl
 https://github.com/WindowsNotifications/desktop-toasts
+=======
+# win_toast_pageme
+This a fork of the win_toast package by Mixin.dev, but with changes to how it interacts with MSIX on windows.
+>>>>>>> a4f79289b6dcd4a9cbb770eca7272f855bb09227
